@@ -10,9 +10,12 @@ This repository contains a Python script that uses a BERT-based model to perform
 
 ## Prerequisites
 
-- Python 3.6+
-- [Transformers](https://huggingface.co/transformers/) library (if using Hugging Face models)
-- Other dependencies as required (see [Installation](#installation))
+- Python 3.x
+- TensorFlow
+- Transformers library
+- NLTK
+- NumPy
+- Scikit-learn
 
 ## Installation
 
